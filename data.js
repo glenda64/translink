@@ -1,0 +1,18 @@
+const stops = {
+	"YVR-Airport":           {x: -123.178269, y: 49.194174},
+	"Sea Island Centre":     {x: -123.157887, y: 49.192986},
+	"Templeton":             {x: -123.146337, y: 49.196688},
+	"Richmond-Brighouse":    {x: -123.136372, y: 49.167943},
+	"Lansdowne":             {x: -123.136475, y: 49.174665},
+	"Aberdeen":              {x: -123.136325, y: 49.184000},
+	"Bridgeport":            {x: -123.126062, y: 49.195538},
+	"Marine Drive":          {x: -123.117015, y: 49.209666},
+	"Langara-49th Avenue":   {x: -123.116523, y: 49.225730},
+	"Oakridge-41st Avenue":  {x: -123.116295, y: 49.233739},
+	"King Edward":           {x: -123.115450, y: 49.249175},
+	"Broadway-City Hall":    {x: -123.115450, y: 49.249175},
+	"Olympic Village":       {x: -123.115348, y: 49.266596},
+	"Yaletown-Roundhouse":   {x: -123.122079, y: 49.274492},
+	"Vancouver City Centre": {x: -123.118227, y: 49.282415},
+	"Waterfront":            {x: -123.111773, y: 49.285687},
+};
